@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("===================>");
 		System.out.println("===================>3333333333");
 		System.out.println("===================>555555555");
-		System.out.println("===================>666665566655");
+		System.out.println("===================>222222222222222");
 	}
 
 }
